@@ -1,2 +1,2 @@
 # Praktikum_PBO
-UTS PBO
+Tugas Praktikum PBO
